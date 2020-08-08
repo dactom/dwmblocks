@@ -1,6 +1,7 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/	 	/*Update Interval*/	/*Update Signal*/
+	/* {" ", "dwmweather",    21600,    0}, */
 	{" ", "dwmcpu",    5,    0},
 	{" ", "dwmmemory",	   10,    0},
 	{" ", "dwmnet",    5,    0},
